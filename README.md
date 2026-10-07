@@ -1,4 +1,4 @@
-#SBA Loan Charge-Off and Risk Analysis
+SBA Loan Charge-Off and Risk Analysis
 
 An exploratory and statistical analysis of 346,930 SBA-backed loans approved in fiscal years 2020–2025, built in Python.
 
