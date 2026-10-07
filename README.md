@@ -23,7 +23,8 @@ These follow from the patterns above and should be validated before being used f
 1.Prioritize monitoring of short-term (under 120 months), variable-rate and uncollateralized loans, which show the largest adjusted risk.
 
 2.Apply extra scrutiny or portfolio limits to high-loss industries, particularly trucking and restaurants for dollar exposure, and the small high-rate categories for frequency.
+
 3.Examine the Community Advantage Initiative and SBA Express programs for targeted support or tighter underwriting, since both combine elevated rates with significant volume.
+
 4.Compare lenders on a risk-adjusted basis before drawing conclusions about underwriting quality, as raw bank rankings reflect loan mix.
 
-Statistical models. Two logistic regressions were run on resolved loans: a one-variable model of interest rate, and a multivariate model controlling for interest rate, loan size, SBA guarantee share, term band, business age, collateral, fixed or variable rate, processing method, business type and approval year.
