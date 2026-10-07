@@ -7,6 +7,8 @@ An exploratory and statistical analysis of 346,930 SBA-backed loans approved in 
 Which SBA loan segments show higher observed default risk, and where is financial exposure from charged-off loans concentrated?
 
 #Executive Summary
+
+
 Overall charge-off rate is 9.2%. Of 74,938 loans that have reached a final outcome (paid in full or charged off), 6,893 were charged off and 68,045 were paid in full.
 Risk is uneven across vintages. Among resolved loans, 2022 and 2023 approvals show the worst outcomes (about 14.4% and 16.9%), versus roughly 6–7% for 2020–2021.
 Program matters. Community Advantage Initiative loans charged off at 28.3% and SBA Express at 12.2%, versus about 6% for Preferred Lenders and 7(a) General.
